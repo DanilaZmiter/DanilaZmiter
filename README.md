@@ -26,7 +26,7 @@ I'm a beginner Python Backend Developer <img src="https://media.giphy.com/media/
 
 - :seedling: I'm currently learning web frameworks (FastAPI, Django) and database design.
 - :zap: I build small pet projects to practice and improve my skills.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/@danilazmiter-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/danilazmitser)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/@danilazmitser-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/danilazmitser)
 
 ---
 
