@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 
   <div id="badges">
-    <a href="https://t.me/danilazmiter">
+    <a href="https://t.me/danilazmitser">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
@@ -26,7 +26,7 @@ I'm a beginner Python Backend Developer <img src="https://media.giphy.com/media/
 
 - :seedling: I'm currently learning web frameworks (FastAPI, Django) and database design.
 - :zap: I build small pet projects to practice and improve my skills.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/@danilazmiter-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/danilazmiter)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/@danilazmiter-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/danilazmitser)
 
 ---
 
