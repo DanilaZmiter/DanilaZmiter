@@ -56,7 +56,7 @@ I'm from Belarus.
     <img src="http://github-readme-streak-stats.herokuapp.com?user=danilazmiter&theme=dark&background=000000" alt="GitHub Streak" />
   </a>
   <br/><br/>
-  <a href="https://github.com/samgozman/github-statcrab">
-    <img src="https://ghstatcrab.vercel.app/api/langs-card?username=danilazmiter&layout=horizontal&max_languages=6&theme=dracula" alt="Top Langs" />
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://metrics.lecoq.io/danilazmiter?template=classic&languages=1&languages.limit=6&languages.other=false&languages.colors=github&config.timezone=Europe%2FMinsk" alt="Top Languages" />
   </a>
 </div>
