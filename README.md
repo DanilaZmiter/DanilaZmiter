@@ -10,9 +10,14 @@
   <img src="https://komarev.com/ghpvc/?username=danilazmiter&style=flat-square&color=blue" alt=""/>
 
   <h1>
-    hey there
+    Hello, my name is Danila
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  <p>
+    I'm a 3rd-year student at BSUIR, passionate about Python backend development. 
+    I contribute to open‑source projects, build pet applications to sharpen my skills, 
+    and I'm actively seeking an internship to gain hands‑on experience and grow as an engineer.
+  </p>
 </div>
 
 <div align="center">
@@ -22,7 +27,7 @@
 ---
 
 ### :technologist: About Me :
-I'm a beginner Python Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+I'm from Belarus.
 
 - :seedling: I'm currently learning web frameworks (FastAPI, Django) and database design.
 - :zap: I build small pet projects to practice and improve my skills.
