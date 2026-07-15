@@ -51,6 +51,12 @@ I'm from Belarus.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danilazmiter&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilazmiter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=danilazmiter&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilazmiter&layout=compact&theme=radical&hide=html,css&langs_count=6" alt="Top Langs" />
+  </a>
+</div>
